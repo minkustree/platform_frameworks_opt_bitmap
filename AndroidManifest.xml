@@ -19,9 +19,11 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
+    <!-- Handled in gradle.build now. Keep here for easier merge conflict resolution.
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="18" />
+    -->
     <application/>
 
 </manifest>
